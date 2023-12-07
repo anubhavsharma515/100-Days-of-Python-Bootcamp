@@ -7,3 +7,5 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 1: Variables in Python](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_1/day_1.py)
 - [Day 2: Data Types & String Manipulation](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_2/day_2.py)
 - [Day 3: Flow Control](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_3/day_3.py)
+- [Day 4: Lists & Randomisation](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_4/day_4.py)
+- [Day 5: Loops](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_5/day_5.py)
