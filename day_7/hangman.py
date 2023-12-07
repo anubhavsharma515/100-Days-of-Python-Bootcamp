@@ -20,14 +20,6 @@ def update_guess(letter: str):
   for i in range(0, word_length): 
     if word[i] == letter: 
       guesses[i] = letter
-  print(guesses)
-
-def check_guess(guesses: list):
-  if ''.join(guesses) == word:
-    print(guesses)
-    return True
-
-  return False
 
 while wrong_guesses < 6 and not(word_guessed):
   letter = input("Guess a Letter: ")
@@ -37,9 +29,11 @@ while wrong_guesses < 6 and not(word_guessed):
       print(f"You already guessed {letter}")
     else:
       update_guess(letter)
+      print(guesses)
 
     if (len(guesses) == word_length):
-      word_guessed = check_guess(guesses)
+      word_guessed = True
+
   else:
     print('XXXXXXXXXXXXX')
     wrong_guesses += 1
