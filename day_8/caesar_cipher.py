@@ -9,8 +9,8 @@ def encrypt(code_string, offset):
 
   for letter in code_string:
     letter_index = alphabet.index(letter)
-    if letter_index + offset > 26:
-      encrypted_letter_index = 26 % offset
+    if letter_index + offset > 25:
+      encrypted_letter_index =  offset - (26 % letter_index)
     else:
       encrypted_letter_index = letter_index + offset
 
@@ -26,8 +26,8 @@ def decrypt(code_string, offset):
 
   for letter in code_string:
     letter_index = alphabet.index(letter)
-    if letter_index - offset < 0:
-      decrypted_letter_index = 26 % offset
+    if letter_index - offset <= 0:
+      decrypted_letter_index = letter_index - offset
     else:
       decrypted_letter_index = letter_index - offset
 
