@@ -13,4 +13,13 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 7: Hangman](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_7/)
 - [Day 8: Caesar Cipher](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_8/)
 - [Day 9: Dictionaries](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_9/)
-- [Day 8: Functions w/ outputs](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_10/)
+- [Day 10: Functions w/ outputs](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_10/)
+
+## Intermediate
+-
+
+## Intermediate+
+-
+
+## 🔰 Capstones
+- [Day 11: Blackjack](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/blackjack.py)
