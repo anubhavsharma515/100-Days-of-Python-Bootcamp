@@ -24,51 +24,70 @@ def check_ace(cards):
   
   return False
 
-def deal_cards(player, hands):
-  for i in range(1, hands):
-    dealt_card = cards[random.randint(0, 13)]
+def deal_cards(player, num_cards):
+  for _ in range(1, num_cards+1):
+    dealt_card = cards[random.randint(0, 12)]
     hands[player]['Cards'].append(dealt_card)
+    print(hands[player]['Cards'])
 
-def validate_score(player)
-
-  if hands[player]['Score'] > 21:
-    has_ace = check_ace(hands[player]['Cards'])
-    if has_ace:
-      ace_index = hands[player]['Cards'].index(11)
-      hands[player]['Cards'][ace_index] = 1
-    else: 
-      hands[player]['Bust'] = True
+def validate_score(player):
+  hands[player]['Cards'].remove(11)
+  hands[player]['Cards'].append(11)
 
 def calculate_score(player):
   hands[player]['Score'] = sum(hands[player]['Cards'])
 
 def check_winner():
+  for player in hands.keys():
+    if (hands[player]['Score'] == 21 and hands[player]['Cards'] == 2):
+      return True
+    elif (hands[player]['Score'] > 21):
+      return True
 
+  return False
 
-def play(player, cards, first_round=False):
+def check_bust(player):
+  if hands[player]['Score'] > 21:
+    if check_ace(hands[player]['Cards']):
+      validate_score('User')
+      calculate_score('User')
+      check_bust('User')
+    return True
+
+  return False
+   
+
+def play(player=['User', 'Computer'], first_round=False, cards=1):
   
   if first_round:
-    deal_cards('User', cards)
-    calculate_score('User')
+    for player in hands.keys():
 
-    deal_cards('Computer', cards)
-    calculate_score('Computer')
+      print(player)
+      deal_cards(player, cards)
+      calculate_score(player)
+      print(f"Your Score: {hands[player]['Score']}")
+      print(f"Your Cards: {hands[player]['Cards']}")
   else:
     deal_cards(player, cards)
     calculate_score(player)
+    print(f"Your Score: {hands[player]['Score']}")
+    print(f"Your Cards: {hands[player]['Cards']}")
 
-  check_winner()
-  if not(hands['User']['Bust']) and hands['User']['Score'] > 21:
-    calculate_score('User')
-  else: 
-    if hands['Computer']['Score'] < 17:
-      play(0, 2, False)
-
-
+  if check_winner():
+    return
+  elif check_bust('User'):
+    return
+  else:
+    continue_game = input("Do you wan't another card? Type 'y' or 'n': ")
+    if continue_game == 'y':
+      play(player='User')
+    else:
+      if hands['Computer']['Score'] < 16:
+        play(player='Computer')
+      
+      
 if start_game == 'y':
-  play(2, True)
+  play(first_round=True, cards=2)
 else:
   print("Okay, see you soon!")
-
-
 
