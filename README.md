@@ -14,6 +14,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 8: Caesar Cipher](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_8/)
 - [Day 9: Dictionaries](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_9/)
 - [Day 10: Functions w/ outputs](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_10/)
+- [Day 12: Scope](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_12/)
 
 ## Intermediate
 -
