@@ -19,7 +19,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 15: Coffee Machine](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_15/)
 - [Day 16: OOP](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_16/)
 - [Day 17: Quiz Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_17/)
-- [Day 19: Etch-a-sketch Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_19/)
+- [Day 19: Instances, State and Higher Order Functions](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_19/)
 
 ## Intermediate
 -
