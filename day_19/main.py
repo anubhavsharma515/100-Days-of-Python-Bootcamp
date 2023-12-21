@@ -9,7 +9,7 @@ def move_forwards():
 def move_backwards():
   tim.backward(10)
 
-def turn_left():
+def turn_right():
   new_heading = tim.heading() + 10
   tim.setheading(new_heading)
 
