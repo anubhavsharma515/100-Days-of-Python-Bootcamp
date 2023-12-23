@@ -22,7 +22,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 
 ## Intermediate
 - [Day 19: Instances, State and Higher Order Functions](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_19/)
-- [Day 20/21: Snake Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_20/)
+- [Day 20/21: Snake Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_20_21/)
 
 ## Intermediate+
 -
