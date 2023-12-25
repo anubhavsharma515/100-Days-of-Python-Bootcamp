@@ -27,6 +27,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 24: Files, Directories and Paths](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_24/)
 - [Day 25: Pandas](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_25/)
 - [Day 26: List Comprehension](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_26/)
+- [Day 27: GUI's and Advanced Args](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_27/)
 
 ## Intermediate+
 -
