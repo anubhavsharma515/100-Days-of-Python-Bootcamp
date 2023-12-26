@@ -38,3 +38,4 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 ## 🔰 Capstones
 - [Day 11: Blackjack](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/blackjack.py)
 - [Day 23: Turtle Crossing](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/day_23/)
+- [Day 31: Flashy](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/day_31/)
