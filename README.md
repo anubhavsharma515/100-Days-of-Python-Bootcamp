@@ -29,6 +29,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 26: List Comprehension](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_26/)
 - [Day 27: GUI's and Advanced Args](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_27/)
 - [Day 28: Pomodoro](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_28/)
+- [Day 29: Password Manager](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_29/)
 
 ## Intermediate+
 -
