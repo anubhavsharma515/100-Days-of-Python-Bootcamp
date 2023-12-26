@@ -30,6 +30,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 27: GUI's and Advanced Args](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_27/)
 - [Day 28: Pomodoro](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_28/)
 - [Day 29: Password Manager](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_29/)
+- [Day 30: JSON and Error Handling](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_30/)
 
 ## Intermediate+
 -
