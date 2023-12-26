@@ -19,6 +19,12 @@ for _, row in words_df.iterrows():
     english_word = row['English']
     words_list.append((french_word, english_word))
 
+# Alternative solution from the course
+# words_list = words_df.to_dict(orient='records')
+# of the form [{'French': 'partie', 'English': 'Party'}]
+# THe way the new_word accesses keys changes, but nothing else really.
+# Might be a bit cleaner than just accessing 0, 1 index of a list item
+
 # ------------------- Event Callback --------------- #
 def word_known(knew_word: bool):
 
