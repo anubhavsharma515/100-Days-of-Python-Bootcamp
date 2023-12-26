@@ -21,15 +21,15 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 17: Quiz Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/beginner/day_17/)
 
 ## Intermediate
-- [Day 19: Instances, State and Higher Order Functions](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_19/)
-- [Day 20/21: Snake Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_20_21/)
-- [Day 22: Pong](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_22/)
-- [Day 24: Files, Directories and Paths](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_24/)
-- [Day 25: Pandas](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_25/)
-- [Day 26: List Comprehension](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_26/)
-- [Day 27: GUI's and Advanced Args](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_27/)
-- [Day 28: Pomodoro](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_28/)
-- [Day 29: Password Manager](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/day_29/)
+- [Day 19: Instances, State and Higher Order Functions](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_19/)
+- [Day 20/21: Snake Game](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_20_21/)
+- [Day 22: Pong](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_22/)
+- [Day 24: Files, Directories and Paths](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_24/)
+- [Day 25: Pandas](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_25/)
+- [Day 26: List Comprehension](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_26/)
+- [Day 27: GUI's and Advanced Args](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_27/)
+- [Day 28: Pomodoro](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_28/)
+- [Day 29: Password Manager](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_29/)
 
 ## Intermediate+
 -
