@@ -34,6 +34,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 
 ## Intermediate+
 - [Day 32: SMTP](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate_plus/day_32/)
+- [Day 33: API Endpoints and Parameters](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate_plus/day_33/)
 
 ## 🔰 Capstones
 - [Day 11: Blackjack](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/blackjack.py)
