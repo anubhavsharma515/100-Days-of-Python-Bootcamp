@@ -33,7 +33,7 @@ Excercises and projects from [100 Days of Code Pro]() bootcamp on Udemy.
 - [Day 30: JSON and Error Handling](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate/day_30/)
 
 ## Intermediate+
--
+- [Day 32: SMTP](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/intermediate_plus/day_32/)
 
 ## 🔰 Capstones
 - [Day 11: Blackjack](https://github.com/anubhavsharma515/100-Days-of-Python-Bootcamp/blob/main/capstones/blackjack.py)
